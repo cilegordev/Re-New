@@ -30,7 +30,7 @@ work good on 1.16.x but you can try up to 1.19.x
 |---------|
 |  ![](src/night.png)  |
 
-To apply on Windows
+# To apply on Windows
 ![](src/windows.png)
 
 ![](src/windows-folder.png)
