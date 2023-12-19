@@ -1,0 +1,8 @@
+{
+    "animation": {
+        "frametime": 1,
+        "blur": true,
+        "clamp": true,
+		"interpolate": true
+    }
+}
