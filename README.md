@@ -31,6 +31,10 @@ work good on 1.16.x but you can try up to 1.19.x
 |---------|
 |  ![](src/night.png)  |
 
+|  THE LAND OF URANUS  |
+|---------|
+|  ![](src/landofuranus1.png) ![](src/landofuranus2.png) ![](src/landofuranus3.png) ![](src/landofuranus4.png) ![](src/landofuranus5.png) ![](src/landofuranus6.png)  |
+
 # To apply on Windows
 ![](src/windows.png)
 
