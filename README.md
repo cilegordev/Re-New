@@ -2,6 +2,7 @@
 is the default texture given slight changes and animations. </br>
 our theme is life in the land of uranus. </br>
 work good on 1.16.x but you can try up to 1.19.x </br>
+use optifine so that the texturepack runs optimally </br>
 if you need shader should you use : [SEUS](https://www.sonicether.com/seus/)
 
 <img src="https://minecraft.wiki/images/Grass_Block_JE7_BE6.png?424c1" width="32"/> <img src="https://minecraft.wiki/images/Block_of_Netherite_JE1_BE1.png?7e0a3" width="32"/> <img src="https://minecraft.wiki/images/Block_of_Amethyst_JE3_BE1.png?14501" width="32"/> <img src="https://minecraft.wiki/images/Cobbled_Deepslate.png?86523" width="32"/> <img src="https://minecraft.wiki/images/Sculk_JE1_BE1.png?2ac8e&format=original" width="32"/> <img src="https://minecraft.wiki/images/End_Gateway.gif?00b00" width="32"/> 
