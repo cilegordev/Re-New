@@ -32,14 +32,3 @@ if you need shader should you use : [SEUS](https://www.sonicether.com/seus/)
 |  NIGHT  |
 |---------|
 |  ![](src/night.png)  |
-
-# To apply on Windows
-![](src/windows.png)
-
-![](src/windows-folder.png)
-
-# To apply on Linux
-```zsh
-git clone https://github.com/cilegordev/Re-New.git ~/Re-New
-mv Re-New /home/Administrator/.minecraft/resourcepacks/
-```
